@@ -1,0 +1,1 @@
+1) Add task according to priority and view them seperately.
